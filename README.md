@@ -1,2 +1,2 @@
-# Almighty
-live: https://kubamielech.github.io/Almighty/
+# alimighty bot
+live: https://kubamielech.github.io/almighty_bot/
